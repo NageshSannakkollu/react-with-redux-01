@@ -1,0 +1,60 @@
+.main-subscriber-comment-container {
+    display: flex;
+
+}
+
+.resort-image {
+    height: 300px;
+    width: 450px;
+}
+.image-buttons-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+}
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-self: center;
+    width: 450px;
+    margin-top: 40px;
+    
+}
+.buttons{
+    padding: 10px 30px;
+    background-color: transparent;
+    border-radius: 8px;
+}
+.buttons:hover {
+    
+    background-color: black;
+    color: white;
+}
+.input-form {
+    padding: 10px 30px;
+    margin-right: 20px;
+
+}
+.input-form-container {
+    margin-top: 30px;
+    display: flex;
+    justify-content: flex-start;
+}
+.subscriber-comment-container {
+    width: 20%;
+    border: 1px solid #000;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+}
+.hr-line {
+    width: 100%;
+}
